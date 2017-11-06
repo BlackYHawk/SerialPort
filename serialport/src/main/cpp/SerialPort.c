@@ -22,7 +22,7 @@
 #include <string.h>
 #include <jni.h>
 
-#include "../include/SerialPort.h"
+#include "SerialPort.h"
 
 #include "android/log.h"
 static const char *TAG="serial_port";
